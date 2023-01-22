@@ -1,0 +1,27 @@
+body{
+font-family: 'Verdana';
+margin: 80px;
+margin-top: 25px;
+font-size: 13px;
+}
+
+.contact-info{
+  text-align: center;
+  font-size: 13px;
+}
+.name{
+  font-size: 13px;
+  font-weight: bold;
+}
+.title_heading{
+  font-size: 13.5px;
+  font-weight: bold;
+}
+
+hr:not([size]) {
+    height: 2px;
+    background-color: black;
+}
+h6{
+  font-size: 13px;
+}
